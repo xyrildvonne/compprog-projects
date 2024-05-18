@@ -1,2 +1,2 @@
 # compprog-projects
-Codes submitted for the final project of FEU Tech's Computer Programming subject
+Codes submitted as a requirement in FEU Tech's Computer Programming subject
